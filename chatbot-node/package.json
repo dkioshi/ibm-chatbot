@@ -1,0 +1,22 @@
+{
+  "name": "ibmchatbot",
+  "version": "1.0.0",
+  "description": "chatbot with pmr system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dkioshi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.3.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "ibm-watson": "^4.1.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "reactstrap": "^8.0.0",
+    "watson-developer-cloud": "^4.0.1"
+  }
+}
